@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Goof luck!");
 		
 		new Foo().sayFoo();
+		new Foo().sayFoo(); // #syaFoo에서 추가
 		System.out.println("Goof luck to you!"); //#master에서 추가
 		
 
