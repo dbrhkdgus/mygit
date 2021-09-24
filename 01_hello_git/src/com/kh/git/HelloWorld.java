@@ -1,5 +1,7 @@
 package com.kh.git;
 
+import com.kh.animal.Cat;
+import com.kh.animal.Dog;
 import com.kh.foo.Foo;
 
 public class HelloWorld {
@@ -13,7 +15,8 @@ public class HelloWorld {
 		new Foo().sayFoo(); // #syaFoo에서 추가
 		System.out.println("Good luck to you!"); //#master에서 추가
 		
-
+		new Dog().say();
+		new Cat().say();
 	}
 	
 }
