@@ -31,4 +31,8 @@ public class HelloWorld {
 		System.out.println("저를 fetch해주세요");	
 	}
 	
+	public void world(){
+		System.out.println("저를 pull해주세요");
+	}
+	
 }
