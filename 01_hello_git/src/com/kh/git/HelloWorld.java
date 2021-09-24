@@ -11,7 +11,7 @@ public class HelloWorld {
 		
 		new Foo().sayFoo();
 		new Foo().sayFoo(); // #syaFoo에서 추가
-		System.out.println("Goof luck to you!"); //#master에서 추가
+		System.out.println("Good luck to you!"); //#master에서 추가
 		
 
 	}
